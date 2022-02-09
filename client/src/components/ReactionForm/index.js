@@ -29,7 +29,6 @@ const ReactionForm = ({ thoughtId }) => {
             console.error(e);
         }
     };
-    
     return (
         <div>
             <p
